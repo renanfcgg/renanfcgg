@@ -1,8 +1,8 @@
 ### Hi, i'm Renan Godinho 🖖
 <div>
   <a href="https://github.com/renanfcgg">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renanfcgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfcgg&layout=compact&langs_count=16&theme=dracula" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renanfcgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfcgg&layout=compact&langs_count=16&theme=dracula" />
 </div>
   
 <div style="display: inline_block"><br/>
